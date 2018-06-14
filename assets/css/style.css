@@ -38,13 +38,10 @@ header {
     height:  80px;
 }
 
-/*Changes added after commits -- Try not to touch above */
-
 .about {
-    color: #4aaaa5;
+    color:     #4aaaa5;
     font-family: Arial, Helvetica, sans-serif;
-
-    margin: 70px 0px 70px 0px;
+    margin:      30px 0px 30px 0px;
 }
 
 .content {
@@ -52,11 +49,13 @@ header {
  
     padding: 10px 30px;
     margin:  30px 0px 0px 0px;
-    border:  1px solid #dddddd;
+    border:  3px solid #dddddd;
+
+    font-family: Arial, 'Helvetica', 'sans-serif';
+    font-size:   18px;
+    color:       #666666;
 
 }
-
-
 
 footer{
     position: fixed;
@@ -76,3 +75,6 @@ footer{
     border-top:  10px solid #4aaaa5;
     padding-top: 20px;
 }
+
+/*CSS Code for index.html -- code for other pages below */
+
