@@ -17,6 +17,8 @@ header {
     
     height: 80px;
     width:  100%;
+
+    border-bottom: 2px solid #cccccc;
 }
 
 .nav {
@@ -31,6 +33,39 @@ header {
 
     float:   left;
     padding: 0px 20px;
-    height:  90px;
+    height:  80px;
+}
 
+/*Changes added after commits -- Try not to touch above */
+
+.about {
+    color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 70px 0px 70px 0px;
+}
+
+.content {
+    background-color: #ffffff;
+}
+
+
+
+footer{
+    position: fixed;
+    left:     0px;
+    bottom:   0px;
+    height:   50px;
+    width:    100%;
+    
+    
+    background-color: #666666;
+    color:            #cccccc;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:   18px;
+    text-align:  center;
+
+    border-top:  10px solid #4aaaa5;
+    padding-top: 20px;
 }
