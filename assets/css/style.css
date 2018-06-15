@@ -1,3 +1,10 @@
+                        /***************************************
+                        **   Style Page for Basic portfolio   **
+                        **             *****                  **  
+                        **          & a joke                  **
+                        ** What is it called when you wear    **
+                        ** A cotton sweater in a black whole? **
+                        ****************************************/
 
 body {
     color:       #7777;
@@ -57,7 +64,7 @@ header {
 
 }
 
-footer{
+footer {
     position: fixed;
     left:     0px;
     bottom:   0px;
@@ -76,5 +83,37 @@ footer{
     padding-top: 20px;
 }
 
-/*CSS Code for index.html -- code for other pages below */
+
+
+
+
+
+
+
+                        /*CSS added for the contact page*/
+
+form {
+    padding: 0px 0px 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    width:  100%;
+    height: 30px;
+    margin: 0px 0px 10px 0px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=button] {
+    width: 125px;
+}
+
+#sub {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#4aaaa5;
+    color: #ffffff;
+    border:  none;
+    
+}
 
