@@ -91,14 +91,26 @@ footer {
     padding-top: 20px;
 }
 
+                            /*CSS added for Portfolio page*/
+
+                        
+.imgContainer {
+    max-width: 620px;
+}
+
+.Port {
+    float: right;
+    margin: 0px 15px 15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.label {
+
+    padding: 0px 0px;
+
+}
 
 
-
-
-
-
-
-                        /*CSS added for the contact page*/
+                         /*CSS added for the contact page*/
 
 form {
     padding: 0px 0px 10px 0px;
@@ -125,3 +137,8 @@ input[type=button] {
     
 }
 
+                        /***************************
+                        **                        ** 
+                        ***     A static void    ***
+                        **                        **
+                        ***************************/
